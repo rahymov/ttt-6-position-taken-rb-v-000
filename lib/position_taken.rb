@@ -4,4 +4,5 @@ def position_taken?(board)
     return true
   elsif board("")
     return false
+  end
 end
